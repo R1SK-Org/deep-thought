@@ -21,3 +21,4 @@ make run
 foreman start
 ```
 
+Examples of every resource schema are located inside the `examples/` folder. 
