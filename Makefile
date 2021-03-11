@@ -17,7 +17,7 @@ help:
 .DEFAULT_GOAL := run
 
 run:
-	@json-server --watch eddn_examples/journal_example.json
+	@json-server --watch db.json
 
 # Docker stuff for laters
 # build:
