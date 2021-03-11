@@ -5,7 +5,7 @@ The answer to the ultimate question.
 
 ### Requirements:
 
-* npm 7.6+
+* NodeJS v15.11+
 
 ### Usage:
 

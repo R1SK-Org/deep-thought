@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "15.11"
+  },
+  "dependencies": {
+    "json-server": "0.16.3"
+  },
   "author": "https://github.com/rojosinalma",
   "license": "GPL"
 }
