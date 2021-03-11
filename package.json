@@ -1,0 +1,11 @@
+{
+  "name": "deep-thought",
+  "version": "0.1.0",
+  "description": "The answer is 42",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/rojosinalma",
+  "license": "GPL"
+}
