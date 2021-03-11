@@ -9,7 +9,15 @@ The answer to the ultimate question.
 
 ### Usage:
 
+**Make:**
+
 ```
 make run
+```
+
+**Foreman:**
+
+```
+foreman start
 ```
 
